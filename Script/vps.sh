@@ -24,6 +24,7 @@ _show_banner() {
     echo "------------------------ 36H VPS Script All In One ------------------------"
     echo -e "Github：\e[32mhttps://github.com/36-H/36-h.github.io\e[0m"
     echo -e "Blog：\e[32mhttps://blog.36h.top\e[0m"
+    echo -e "Version: V1.0.0"
     echo -e ""
 }
 
